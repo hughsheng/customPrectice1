@@ -44,7 +44,7 @@ public class Practice9DrawPathView extends View {
         mPaint=new Paint();
         mPaint.setStyle(Paint.Style.FILL);
         mPaint.setAntiAlias(true);
-        rectf1=new RectF(250,200,350,300);
+        rectf1=new RectF(  250,200,350,300);
         rectF2=new RectF(350,200,450,300);
         mPath=new Path();
     }
